@@ -20,10 +20,10 @@ bio: My research interests include Behavioral Economics, Data Science and everyt
 interests:
 - Behavioral Economics
 - Artificial Intelligence
-- Creating Websites
 - Times Series Analysis
 - Applied Microeconomics
 - Applied Macroeconomics
+- Creating Websites
 
 # Education to show in About widget
 education:
