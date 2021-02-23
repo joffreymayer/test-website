@@ -51,7 +51,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/joffreymayer
 # - icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
