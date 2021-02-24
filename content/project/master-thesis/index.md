@@ -31,4 +31,6 @@ url_video: ""
 # slides: example
 ---
 
-{{< icon name="download" pack="fas" >}} Here is a {{< staticref "project/master-thesis/Masterarbeit-ECON-Joffrey-Mayer.pdf" "newtab" >}}link to the R code of my Master thesis{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is a {{< staticref "project/master-thesis/Masterarbeit-ECON-Joffrey-Mayer.pdf" "newtab" >}}link to my entire Master thesis{{< /staticref >}}.
+
+The main goal of my thesis was to *model people’s sport choices over time*. More specifically, I tried to answer questions such as why certain types of people tend to develop sport habits, starting from a very young age, while others prefer to quit / start to do sport later / earlier in their lives, respectively. To answer such questions, I used various *theoretical* approaches from the field of *Behavioral Economics*, as well as *Discrete Choice Methods* for the empirical analysis.
