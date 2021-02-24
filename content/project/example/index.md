@@ -3,6 +3,7 @@ title: R Code Master Thesis
 summary: An example of how I work with data.
 tags:
 - Deep Learning
+- Data Analysis
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
