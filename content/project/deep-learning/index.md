@@ -32,4 +32,6 @@ url_video: ""
 # slides: example
 ---
 
-{{< icon name="download" pack="fas" >}} Here is a {{< staticref "project/deep-learning/neural-network-to-predict-football-matches-joffrey-mayer.pdf" "newtab" >}}link to my entire Master thesis{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is a {{< staticref "project/deep-learning/neural-network-to-predict-football-matches-joffrey-mayer.pdf" "newtab" >}}link to my study{{< /staticref >}}.
+
+During my studies, I came into contact with the programming language *Python*. This experience culminated in an empirical project, where a fellow student and I attempted to *predict the outcome (win, loss, draw) of football matches in the four largest European leagues over the past 14 seasons with a neural network*. This was achieved by using a detailed panel dataset.
