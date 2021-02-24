@@ -9,9 +9,8 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Krzysztof Maksimiuk on Unsplash
+  caption: Photo by Green Chameleon on Unsplash
   focal_point: Smart
-  src: thesis.jpg
 
 links:
 # - icon: twitter
