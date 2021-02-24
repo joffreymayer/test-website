@@ -18,7 +18,7 @@ links:
   name: Follow
   url: "https://twitter.com/anthonyjoffrey"
 url_code: ""
-  url_pdf: "project/example/R-Code-Master-Thesis.pdf"
+url_pdf: "project/example/R-Code-Master-Thesis.pdf"
 url_slides: ""
 url_video: ""
 
