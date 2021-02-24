@@ -19,7 +19,7 @@ links:
 #  name: Follow
 #  url: "https://twitter.com/anthonyjoffrey"
 url_code: ""
-url_pdf: ""
+url_pdf: "project/audiophil-dreams/screenshots-comparison-website-performance-joffrey-mayer.pdf"
 url_slides: ""
 url_video: ""
 
