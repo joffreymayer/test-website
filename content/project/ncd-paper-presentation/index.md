@@ -1,6 +1,6 @@
 ---
-title: Paper Presentation
-summary: Does the source of an information influence decision making? A critical analysis of the *messenger effect* in the context of smoking behaviors.
+title: A Critical Evaluation of a Behavioral Paper
+summary: Does the source of an information influences decision making? This paper presentation analyses critically whether there is a *messenger effect* in the context of smoking behaviors.
 tags:
 - Other
 date: "2016-04-27T00:00:00Z"
