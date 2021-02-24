@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-I graduated with a major in Economics and a minor in Data Science from the University of Zurich.
+I graduated with a major in [Economics](https://www.oec.uzh.ch/en/studies/master/oec/econ.html) and a minor in [Data Science](https://www.oec.uzh.ch/en/studies/master/it/ds.html) from the University of Zurich.
 
-My Master thesis, completed in October 2020, focuses on the application of random utility models and machine learning techniques, to explain people's sport behaviors. More specifically, I used already existing theories within the fields of Behavioral Economics, as well as Neoclassical Economics, to explain why some people develop a habit of doing sport / no sport over their life, while others decide to invert their behavior and start / stop doing sport when they become adult. 
+My Master thesis, completed in October 2020, focuses on the application of random utility models and machine learning techniques, to explain people's sport behaviors. More specifically, I used already existing theories within the fields of [Behavioral Economics](https://www.oec.uzh.ch/en/studies/master/oec/econ/behavioral-economics.html), as well as Neoclassical Economics, to explain why some people develop a habit of doing sport / no sport over their life, while others decide to invert their behavior and start / stop doing sport when they become adult. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
