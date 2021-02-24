@@ -1,6 +1,6 @@
 ---
 title: Deep Learning and Neural Networks
-summary: Predicting the outcome (Win, Loss, Draw) of football matches in the 4 biggest European leagues.
+summary: Predicting the outcome (win, loss or draw) of football matches in the 4 biggest European leagues.
 tags:
 - Deep Learning
 - Data Analysis
