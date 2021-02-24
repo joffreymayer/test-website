@@ -1,6 +1,6 @@
 ---
 title: Acquiring new Customers in the Digital Age
-summary: I increased this website's traffic from 600 to 2'020 people / month within 1 year (for proof, see the PDF), solely with the help of HTML, CSS, Javascript and SEO techniques.
+summary: I increased this website's traffic from 600 to 2'020 people / month within 1 year (for proof, see the PDF), by programming it - from scratch - with HTML, CSS, Javascript and SEO techniques.
 tags:
 - Entrepreneurship
 date: "2016-04-27T00:00:00Z"
