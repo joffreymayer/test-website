@@ -8,6 +8,7 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+# wichtig hier: du musst den Namen des Bildes immer bei "featured.jpg" belassen, sonst wird kein Bild erscheinen!
 image:
   caption: Photo by Green Chameleon on Unsplash
   focal_point: Smart
