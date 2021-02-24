@@ -1,6 +1,6 @@
 ---
 title: Master Thesis
-summary: An Empirical Analysis of the Formation of Sport Preferences in Switzerland; with a Focus on Inter- and Intragenerational Factors.
+summary: An Empirical Analysis.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
