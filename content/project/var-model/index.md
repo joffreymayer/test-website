@@ -31,4 +31,8 @@ url_video: ""
 # slides: example
 ---
 
-{{< icon name="download" pack="fas" >}} Here is a {{< staticref "project/var-model/applied-macroeconomic-analysis-joffrey-mayer.pdf" "newtab" >}}link to my entire Master thesis{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is a {{< staticref "project/var-model/applied-macroeconomic-analysis-joffrey-mayer.pdf" "newtab" >}}link to my study{{< /staticref >}}.
+
+In the field of economic history, historians & economists are interested in the causes of the world's greatest economic crisis - the Great Depression in 1929. 
+
+*By using time series data from state archives, I was able to perform a macroeconomic analysis of France’s economy during the interwar period (1919-1938) using a „Vector Autoregressive Model (VAR-Model)“ in order to investigate empirically, whether potential causes, discussed in the literature, were truly relevant.* 
