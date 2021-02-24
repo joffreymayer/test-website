@@ -26,7 +26,7 @@ feature:
   icon_pack: fas
   name: Time Series Analysis
 - icon: python
-  icon_pack: fas
+  icon_pack: fab
   name: Python
 - icon: file
   icon_pack: fas
