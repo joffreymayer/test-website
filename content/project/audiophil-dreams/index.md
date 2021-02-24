@@ -1,6 +1,6 @@
 ---
 title: Gaining new Customers in the Digital Age
-summary: This project is a 6-months challenge I set to myself - creating a website, from scratch, solely with the help of HTML, CSS and Javascript. In the end, and with the help of SEO techniques, I increased this website's traffic from 600 to 2'020 people / month within a time period of about 1 year (for proof, see the PDF).
+summary: The challenge was to create a website, from scratch, solely with the help of HTML, CSS, Javascript and SEO techniques. In the end, I increased this website's traffic from 600 to 2'020 people / month within a time period of about 1 year (for proof, see the PDF).
 tags:
 - Entrepreneurship
 date: "2016-04-27T00:00:00Z"
