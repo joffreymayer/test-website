@@ -1,6 +1,6 @@
 ---
 title: Using $\LaTeX$ for Entrepreneurs
-summary: This is a tutorial on how to review a company on Google.
+summary: This is a tutorial on how to incite your customers to review your business on Google.
 tags:
 - Entrepreneurship
 date: "2016-04-27T00:00:00Z"
