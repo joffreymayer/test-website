@@ -33,7 +33,7 @@ feature:
   name: Python
 - icon: file
   icon_pack: fas
-  name: {\LaTeX}
+  name: LaTeX
 - icon: project-diagram
   icon_pack: fas
   name: Econometrics
