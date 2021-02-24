@@ -1,6 +1,6 @@
 ---
 title: Application of a DiD-Model with R
-summary: In this data analysis, I used an aggregated panel dataset to analyze & assess the effectiveness of a $12.7 million project in New York that aims to reduce crime by implementing preventive measures.
+summary: An applied microeconomic analysis that assesses the effectiveness of a $12.7 million project in New York which aims to reduce crime by implementing preventive measures.
 tags:
 - Data Analysis
 date: "2016-04-27T00:00:00Z"
