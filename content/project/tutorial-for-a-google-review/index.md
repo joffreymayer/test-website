@@ -31,4 +31,12 @@ url_video: ""
 # slides: example
 ---
 
-{{< icon name="download" pack="fas" >}} Here is a {{< staticref "project/tutorial-for-a-google-review/Google_Rezension_erstellen_by_Joffrey_Mayer.pdf" "newtab" >}}link to my entire Master thesis{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is a {{< staticref "project/tutorial-for-a-google-review/Google_Rezension_erstellen_by_Joffrey_Mayer.pdf" "newtab" >}}link to the tutorial{{< /staticref >}}.
+
+Nowadays, it is from utmost importance to be aware of new working frameworks and technologies all the time, otherwise competitors with better adaptability will develop much faster and - ultimately - you lose your position in the market.
+
+In the digital age, companies must be able to establish a dialog with their customers. One possibility to increase the trust in a company and highlight very sophisticated knowledge of a brand, may be achieved through Google reviews.
+
+*By providing a rating, today's customers give future buyers the opportunity to better assess the performance of a company and thereby increase the overall transparency between the demand & supply-side. Furthermore, the more a company is able to get high ratings on Google, the better the visibility on the internet will be*. 
+
+Therefore, being able to incite customers to rate the company, is becoming extremely relevant for the future development of a brand. *That's why I created this very beginner friendly tutorial, in order to maximize the amount of Google review for a company*.
