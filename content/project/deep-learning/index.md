@@ -20,7 +20,7 @@ links:
 #  name: Follow
 #  url: "https://twitter.com/anthonyjoffrey"
 url_code: ""
-url_pdf: "project/deep-learning/Projektarbeit-DeepLearning-Fussball.pdf"
+url_pdf: "project/deep-learning/neural-network-to-predict-football-matches-joffrey-mayer.pdf"
 url_slides: ""
 url_video: ""
 
@@ -32,4 +32,4 @@ url_video: ""
 # slides: example
 ---
 
-{{< icon name="download" pack="fas" >}} Here is a {{< staticref "project/deep-learning/Projektarbeit-DeepLearning-Fussball.pdf" "newtab" >}}link to my entire Master thesis{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is a {{< staticref "project/deep-learning/neural-network-to-predict-football-matches-joffrey-mayer.pdf" "newtab" >}}link to my entire Master thesis{{< /staticref >}}.
