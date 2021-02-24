@@ -10,7 +10,7 @@ external_link: "https://www.audiophil-dreams.com/"
 
 # wichtig hier: du musst den Namen des Bildes immer bei "featured.jpg" belassen, sonst wird kein Bild erscheinen!
 image:
-  caption: Photo by Louis Pellissier on Unsplash
+  caption: Photo by Kovah on Unsplash
   focal_point: Smart
 
 links:
