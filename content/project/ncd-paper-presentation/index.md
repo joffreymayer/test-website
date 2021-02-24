@@ -2,8 +2,7 @@
 title: Paper Presentation
 summary: Does the source of an information influence decision making? A critical analysis of the *messenger effect* in the context of smoking behaviors.
 tags:
-- Deep Learning
-- Data Analysis
+- Other
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
