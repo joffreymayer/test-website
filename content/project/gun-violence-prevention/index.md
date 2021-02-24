@@ -31,4 +31,8 @@ url_video: ""
 # slides: example
 ---
 
-{{< icon name="download" pack="fas" >}} Here is a {{< staticref "project/gun-violence-prevention/crime-prevention-in-nyc-joffrey-mayer.pdf" "newtab" >}}link to my entire Master thesis{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is a {{< staticref "project/gun-violence-prevention/crime-prevention-in-nyc-joffrey-mayer.pdf" "newtab" >}}link to this paper{{< /staticref >}}.
+
+One of the main goals in criminology is to alleviate violence *before* it breaks out, in order to maximize a society’s safety. This is achieved by implementing various kinds of preventive measures. Security topics have always been on the top of many countries’ agenda, especially in the U.S., where there are almost as many guns as there are inhabitants (about 300 millions). Therefore, many U.S.-cities invest in multi-million dollar projects to *reduce gun violence* in general. Oftentimes, disadvantaged neighborhoods - where crime is more prevalent than in other geographical areas - are targeted. 
+
+Using aggregated monthly crime data at the precinct level, I was able - along with a study group-member of mine - *to analyze & assess the effectiveness of a $12.7 million project in New York that aims to reduce crime by implementing preventive measures*.
