@@ -26,8 +26,8 @@ experience:
     company: Audiophil-Dreams.com
     company_url: 'https://www.audiophil-dreams.com/'
     location: Switzerland
-    date_start: '2019-01-07'
-    date_end: '2020-14-01'
+    date_start: '2016-02-09'
+    date_end: 'Present'
     description: |2-
         Responsibilities include:
         
