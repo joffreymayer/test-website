@@ -23,10 +23,34 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Web Developer
+    company: Audiophil-Dreams.com
+    company_url: 'https://www.audiophil-dreams.com/'
+    location: Uerikon, Switzerland
+    date_start: '2019-07-01'
+    date_end: '2020-01-14'
+    description: |2-
+        Responsibilities include:
+        
+        * <u>Web Design</u>: Programming the websites Audiophil-Dreams.com & Optimize-Audio.com from scratch with the help of only HTML, CSS and JavaScript (NOT with a content management system, like WordPress). Making the website adaptable such that it displays flawlessly on Smartphones, Tablets and Computer-Screens through ”responsive-design”, on all possible browsers (Google Chrome, Safari, Opera, Internet Explorer etc.).
+        * Establishing the digital marketing strategy: Writing each of the pages’ whole content, which was around 120 pages. To get as much people on the site as possible - that is, to generate ”traffic” - I implemented Search Engine Optimization - also known as SEO - to rank as high as possible for multiple keywords in the Google Search Engine. The usage of a backlink-strategy, as well as the placement into code-snippets within Google was implemented. The goal was to improve the domain-authority, which reflects the credibility of a website.
+        * Editing and loading-time of the site: Shooting appropriate visuals for the website and using the open-source software GIMP for image editing is important, since good images will keep the audience longer on the website. However, one needs to minimize the loading of the website. Thus, the images had to be reduced in their size. Without this, the users will wait longer for the site to load, which ultimately results in bad user-experience and - ultimately - to a reduction of the page-ranking for a specific keyword.
+
+  - title: Temporary Assistant
+    company: Schreinerei Müllerweibel AG
+    company_url: 'https://www.muellerweibel.ch/home'
+    location: Baar, Switzerland
+    date_start: '2016-08-01'
+    date_end: '2016-09-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Conception & construction of a ”Musikhüsli” which was being used as a booth at the Zürcher Oberland Messe (ZOM).
+
   - title: Student Trainee
     company: Audiophil-Dreams.com
     company_url: 'https://www.audiophil-dreams.com/'
-    location: Switzerland
+    location: Uerikon, Switzerland
     date_start: '2016-06-01'
     date_end: '2016-07-31'
     description: |2-
@@ -40,7 +64,7 @@ experience:
   - title: Web Developer
     company: Audiophil-Dreams.com
     company_url: 'https://www.audiophil-dreams.com/'
-    location: Switzerland
+    location: Uerikon, Switzerland
     date_start: '2015-06-01'
     date_end: '2015-09-15'
     description: |2-
