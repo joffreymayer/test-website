@@ -93,7 +93,7 @@ phone = "+ 41 76 328 91 04"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Treppenweg 4", city = "Hombrechtikon"}
+# address = {street = "Treppenweg 4", city = "Hombrechtikon"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
