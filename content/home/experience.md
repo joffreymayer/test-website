@@ -22,24 +22,54 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+  - title: Web Developer
+    company: Audiophil-Dreams.com
+    company_url: 'https://www.audiophil-dreams.com/'
+    location: Switzerland
+    date_start: '2015-01-06'
+    date_end: '2015-15-09'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * <u>Web Design</u>: Programming the websites [Audiophil-Dreams.com](https://www.audiophil-dreams.com/) & [Optimize-Audio.com](https://www.optimizeaudio.com/) from scratch with the help of only HTML, CSS and JavaScript (NOT with a content management system, like WordPress). Making the website adaptable such that it displays flawlessly on Smartphones, Tablets and Computer-Screens through ”responsive-design”, on all possible browsers (Google Chrome, Safari, Opera, Internet Explorer etc.).
+        * <u>Establishing the digital marketing strategy</u>: Writing each of the pages’ whole content, which was around 120 pages. To get as much people on the site as possible - that is, to generate ”traffic” - I implemented Search Engine Optimization - also known as SEO - to rank as high as possible for multiple keywords in the Google Search Engine. The usage of a backlink-strategy, as well as the placement into code-snippets within Google was implemented. The goal was to improve the domain-authority, which reflects the credibility of a website.
+        * <u>Editing and loading-time of the site</u>: Shooting appropriate visuals for the website and using the open-source software GIMP for image editing is important, since good images will keep the audience longer on the website. However, one needs to minimize the loading of the website. Thus, the images had to be reduced in their size. Without this, the users will wait longer for the site to load, which ultimately results in bad user-experience and - ultimately - to a reduction of the page-ranking for a specific keyword.
+
+  - title: Temporary Assistant
+    company: Schreinerei Müllerweibel AG
+    company_url: 'https://www.muellerweibel.ch/home'
+    location: Switzerland
+    date_start: '2016-01-08'
+    date_end: '2016-01-09'
+    description: |2-
+        Responsibilities include:
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Conception & construction of a ”Musikhüsli” which was being used as a booth at the Zürcher Oberland Messe (ZOM).
+
+  - title: Student Trainee
+    company: Audiophil-Dreams.com
+    company_url: 'https://www.audiophil-dreams.com/'
+    location: Switzerland
+    date_start: '2016-01-06'
+    date_end: '2016-31-07'
+    description: |2-
+        Responsibilities include:
+        
+        * <u>Customer Service</u>: Providing overall customer advice.
+        * <u>Pre-Production Product Analysis</u>: Responsible for assessing various hifi accessories on their effectiveness when used on high-end systems.
+        * <u>Marketing Management</u>: After setting some overall corporate goals, some intermediate marketing objectives were fixed in order to adapt the overall firm strategy.
+        * <u>Website Management</u>: Update Website-Content and fix some bugs, if problems occured.
+        
+  - title: Web Developer
+    company: Audiophil-Dreams.com
+    company_url: 'https://www.audiophil-dreams.com/'
+    location: Switzerland
+    date_start: '2015-01-06'
+    date_end: '2015-15-09'
+    description: |2-
+        Responsibilities include:
+        
+        * First Attempts to develop a website with HTML, CSS and JavaScript
+        * Deploying the site
+        * Maintaining the site
 ---
